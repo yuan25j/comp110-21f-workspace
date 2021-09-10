@@ -1,5 +1,5 @@
 # TODO: Write docstring here
-"""Exercise one: Hype Machine, input name, helps cheer you up"""
+"""Exercise one: Hype Machine, input name, helps cheer you up."""
 # TODO: Initialize __author__ variable here
 __author__ = "730458275"
 # TODO: Implement your program logic here
